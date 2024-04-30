@@ -1,0 +1,14 @@
+C:\Users\Profesor\source\repos\jromres.4EvProg\bin\Debug\net8.0\jromres.4EvProg.exe
+C:\Users\Profesor\source\repos\jromres.4EvProg\bin\Debug\net8.0\jromres.4EvProg.deps.json
+C:\Users\Profesor\source\repos\jromres.4EvProg\bin\Debug\net8.0\jromres.4EvProg.runtimeconfig.json
+C:\Users\Profesor\source\repos\jromres.4EvProg\bin\Debug\net8.0\jromres.4EvProg.dll
+C:\Users\Profesor\source\repos\jromres.4EvProg\bin\Debug\net8.0\jromres.4EvProg.pdb
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.dll
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\refint\jromres.4EvProg.dll
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.pdb
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\jromres.4EvProg.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\jromres.4EvProg\obj\Debug\net8.0\ref\jromres.4EvProg.dll

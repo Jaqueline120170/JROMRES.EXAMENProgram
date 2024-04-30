@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "jromres.4EvProg/1.0.0": {
+        "runtime": {
+          "jromres.4EvProg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jromres.4EvProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
