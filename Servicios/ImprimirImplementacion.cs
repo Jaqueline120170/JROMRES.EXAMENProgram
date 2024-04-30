@@ -11,8 +11,6 @@ namespace jromres._4EvProg.Servicios
     internal class ImprimirImplementacion : ImprimirInterfaz
     {
 
-
-
         public void imprimirConsultasDelDiaAsistida()
         {
             DateTime fechaHoy = DateTime.Today;
@@ -33,15 +31,15 @@ namespace jromres._4EvProg.Servicios
                 {
                     if (consulta.FechaCita.Day == pedidaFecha.Day & consulta.FechaCita.Month == pedidaFecha.Month & consulta.FechaCita.Year == pedidaFecha.Year & consulta.Asistencia.Equals("true"))
                     {
-                        if (consulta.Especialidad.Equals("Psicologia"))
+                        if (consulta.Especialidad.Equals("PSICOLOGIA"))
                         {
-                            sw.Write("Nombre completo: {consulta.Nombre} {consulta.ApellidoPrimero}, Hora:{consulta.FechaCita.Hour}:{cit.FechaCita.Minute}");
+                            sw.Write($"Nombre completo: {consulta.Nombre} {consulta.ApellidoPrimero}, Hora:{consulta.FechaCita.Hour}:{consulta.FechaCita.Minute}");
                         }
-                        else if (consulta.Especialidad.Equals("Traumatologia"))
+                        else if (consulta.Especialidad.Equals("TRAUMATOLOGIA"))
                         {
-                            sw.Write("Nombre completo: {cit.Nombre} {cit.Apellidos}, Hora: {cit.FechaCita.Hour}:{cit.FechaCita.Minute}");
+                            sw.Write($"Nombre completo: {consulta.Nombre} {consulta.ApellidoPrimero}, Hora: {consulta.FechaCita.Hour}:{consulta.FechaCita.Minute}");
                         }
-                        else if (consulta.Especialidad.Equals("Fisioterapia"))
+                        else if (consulta.Especialidad.Equals("FISIOTERAPIA"))
                         {
                             sw.Write($"Nombre completo: {consulta.Nombre} {consulta.ApellidoPrimero}, Hora: {consulta.FechaCita.Hour}:{consulta.FechaCita.Minute}");
                         }
@@ -55,7 +53,7 @@ namespace jromres._4EvProg.Servicios
             }
             catch (IOException ex)
             {
-                Console.WriteLine("ha habido un error en la app");
+                Console.WriteLine("Ha habido un error en la app");
             }
 
         }
